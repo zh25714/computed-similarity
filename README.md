@@ -11,7 +11,7 @@ Hybrid model: TreeLSTM+ABCNN3
 2. main-----trainer-----------model.SimilarityTreeLSTM corresponding totreelstm
 3. hybrid-------hybridtrainer-----------model.Hybrid corresponding to The Hybrid model
 
-- python3 abmain.py   run single abcnn model
-- python3 main.py  run single TreeLSTM model
-- python3 hybrid.py run hybrid model
+- 'python3 abmain.py'   run single abcnn model
+- 'python3 main.py'     run single TreeLSTM model
+- 'python3 hybrid.py'   run hybrid model
 
